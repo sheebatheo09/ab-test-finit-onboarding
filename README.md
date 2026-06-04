@@ -1,14 +1,12 @@
 # A/B Test Analysis: Onboarding Redesign & Free Trial
 ### Finit: Habit & Wellness Subscription App
 
----
-
 ## The Business Problem
 
 Finit is a habit-tracking subscription app. Two compounding problems were identified in the new user journey:
 
-1. **Activation gap** — 68% of new users never complete their first habit check-in within 48 hours. Users who don't activate within 48h have 7-day retention of just 11%, vs 54% for those who do.
-2. **Paywall friction** — A hard paywall on day 3 drives churn. 61% of churned users said they didn't have enough time to decide if the product was worth paying for.
+1. **Activation gap** : 68% of new users never complete their first habit check-in within 48 hours. Users who don't activate within 48h have 7-day retention of just 11%, vs 54% for those who do.
+2. **Paywall friction** : A hard paywall on day 3 drives churn. 61% of churned users said they didn't have enough time to decide if the product was worth paying for.
 
 ## The Experiment
 
