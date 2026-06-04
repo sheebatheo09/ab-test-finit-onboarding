@@ -48,4 +48,4 @@ jupyter notebook ab_test_finit_onboarding.ipynb
 
 ---
 
-*Project built to demonstrate end-to-end product analytics thinking — from business problem to ship decision.*
+*Project built to demonstrate end-to-end product analytics thinking from business problem to ship decision.*
