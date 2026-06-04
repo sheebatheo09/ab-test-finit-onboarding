@@ -1,5 +1,5 @@
 # A/B Test Analysis: Onboarding Redesign & Free Trial
-### Finit — Habit & Wellness Subscription App
+### Finit: Habit & Wellness Subscription App
 
 ---
 
